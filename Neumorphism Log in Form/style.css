@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800&display=swap');
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Jost', sans-serif;
+}
+body{
+	height: 100vh;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	background: #242424;
+}
+.login{
+	background: transparent;
+	width: 400px;
+	padding: 40px;
+	border-radius: 10px;
+	box-shadow: 4px 4px 10px #000, -4px -4px 10px #353535;
+}
+.login h3{
+	margin: 0 0 30px;
+	color: #78b7ef;
+}
+.login .user{
+	position: relative;
+}
+.login .user input, button{
+	width: 100%;
+	padding: 10px 0;
+	font-size: 20px;
+	color: #78b7ef;
+	margin-bottom: 30px;
+	outline: none;
+	border: none;
+	border-bottom: 1px solid #78b7ef;
+	background: transparent;
+}
+.login form button{
+	border: 1px solid transparent;
+	font-size: 20px;
+	letter-spacing: 4px;
+	font-weight: 600;
+	background: #242424;
+	color: #78b7ef;
+	cursor: pointer;
+	box-shadow: 4px 4px 10px #000, 
+	-4px -4px 10px #353535;	
+	transition: .5s;
+}
+.login form button:hover{
+	background: #0e0d0d4f;
+}
