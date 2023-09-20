@@ -16,7 +16,7 @@ https://youtu.be/SzahTlp4ZGk
           
 If you enjoy what you saw, make sure to Subscribe so that you won't miss our future Update!
 
-💰Support My Channel:
+# 💰Support My Channel:
      
                Channel membership
 → https://www.youtube.com/channel/UCGpdA6jZMwot-Ot7MIPEYLw/join
