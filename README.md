@@ -32,9 +32,13 @@ If you enjoy what you saw, make sure to Subscribe so that you won't miss our fut
 
 
 🎁 Follow my social Median as well
+
 Facebook → https://www.facebook.com/tiefsoftwarelab
+
 Instagram → https://www.instagram.com/tiefsoftwarelab
+
 Twitter → https://twitter.com/tiefsoftwarelab
+
 GitHub → https://github.com/tiefsoftwarelab
 
 🎯Tags and Hashtags:
