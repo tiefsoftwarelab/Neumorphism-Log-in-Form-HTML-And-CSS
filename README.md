@@ -31,7 +31,7 @@ If you enjoy what you saw, make sure to Subscribe so that you won't miss our fut
 → https://www.youtube.com/@tiefsoftwarelab?sub_confirmation=1
 
 
-🎁 Follow my social Median as well
+🎁 Follow my social Media as well
 
 Facebook → https://www.facebook.com/tiefsoftwarelab
 
